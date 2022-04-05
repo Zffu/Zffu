@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋I am Radi0o
+- 😄 Pronouns: She
+- 📫 How to reach me: radi0o@outlook.fr or my discord : Radi0o#9442
 
 <!--
 **Radi0o/radi0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
