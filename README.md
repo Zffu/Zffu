@@ -1,5 +1,5 @@
 ### Hi there 👋I am Radi0o
-- 😄 Pronouns: She
+- 😄 Pronouns: He,Him
 - 📫 How to reach me: radi0o0@outlook.com or my discord : Radi0o#9442
 
 <!--
