@@ -1,18 +1,29 @@
-### Hi there 👋I am Radi0o
-- 😄 Pronouns: He,Him
-- 📫 How to reach me: radi0o0@outlook.com or my discord : Radi0o#9442
+<div align="center">
 
-<!--
-**Radi0o/radi0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Welcome I'm <a href="https://www.github.com/Radi0o">Radi0o</a>!</h1>
+  Hi im a developper , i also own <a href="https://shadowrient.ml">Shadowrient</a> 
+                                                                                   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h1>Github Stats</h1>
+<div align="center">
+ 
+![Radi0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radi0o&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radi0o)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+</details>
+
+```text
+Contact me
+
+Discord : Radi0o#
+Github : Radi0o
+Mail : radi0othedev@gmail.com
+```
+
