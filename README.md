@@ -2,7 +2,7 @@
 
 
 <h1>Welcome I'm <a href="https://www.github.com/Radi0o">Radi0o</a>!</h1>
-  Hi im a developper , i also own <a href="https://shadowrient.ml">Shadowrient</a> 
+  Hi im a developper , i also own <a href="https://zeronmc.ml">ZeronMc</a> 
                                                                                    
 </div>
 
