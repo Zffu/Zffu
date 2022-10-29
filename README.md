@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/-GitLab-5194f0?style=for-the-badge&logo=gitlab&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-GitHub%20Actions-5194f0?style=for-the-badge&logo=github%20actions&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Git-5194f0?style=for-the-badge&logo=Git&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-MySQL-5194f0?style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-MySQL-5194f0?style=for-the-badge&logo=mongodb&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-SQLite-5194f0?style=for-the-badge&logo=sqlite&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Kotlin-5194f0?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <!--    Operating Systems--><br>
