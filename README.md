@@ -1,6 +1,6 @@
 👋 Hi!, I am Zffu, an backend developer / Software engineer.
 
-Im Currently working at [NexusCraft](https://github.com/NexusCraftDev) as a Owner / Lead Developper.
+[NexusCraft](https://github.com/NexusCraftDev) @ Owner / Lead Dev
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zffu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
