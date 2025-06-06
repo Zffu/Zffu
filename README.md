@@ -13,7 +13,7 @@ I'm a 15 year old guy that codes whenther he's bored, I also sometimes watch ani
 <br><br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Zffu"><img align="right" width="100" src="./assets/2.png"></a> Since I am only 15, I currently do not have any degree but still have experience. I overall have almost 6 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
+<a href="https://github.com/Zffu"><img align="right" width="100" src="./assets/2.png"></a> Since I am only 15, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
 
 
 ## **📊 Github Stats**
