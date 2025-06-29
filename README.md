@@ -1,7 +1,5 @@
 ![Preview](assets/background.jpg)
 
-<a href="https://discord.gg/WF8fAj7ERZ"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/950435898410024970?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
-
 
 ### Hi!👋 I'm Zffu
 
