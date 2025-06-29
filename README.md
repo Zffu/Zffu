@@ -1,6 +1,7 @@
 ![Preview](assets/background.jpg)
 
 [zffu.dev](https://zffu.dev/) - My personnal website with projects, blog and more.
+
 Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
