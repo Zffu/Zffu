@@ -1,9 +1,7 @@
 ![Preview](assets/background.jpg)
 
-
-### Hi!👋 I'm Zffu
-
-**Programmer, Gamer and Anime Watcher** 
+[zffu.dev](https://zffu.dev/) - My personnal website with projects, blog and more.
+Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
 <a href="https://github.com/Zffu"><img align="left" width="100" src="./assets/1.png"></a>
@@ -33,3 +31,6 @@ I'm a 16 year old guy that codes whenther he's bored, I also sometimes watch ani
 [![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/950435898410024970)
 
 [![](https://komarev.com/ghpvc/?username=Zffu)]()
+
+---
+👉 Visit [zffu.dev](https://zffu.dev/) to see my projects!
