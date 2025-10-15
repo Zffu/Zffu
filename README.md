@@ -6,7 +6,7 @@ Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
 <a href="https://github.com/Zffu"><img align="left" width="100" src="./assets/1.png"></a>
-I'm a 16 year old guy that codes whenther he's bored, I also sometimes watch anime and play video games!
+I'm a 16 year old guy that codes whenever he's bored, I also sometimes watch anime and play video games!
 <br><br><br>
 
 ## **💻 Experience**
