@@ -4,7 +4,8 @@ Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
 I'm a 16 year old guy that codes whenever he's bored, I also sometimes watch anime and play video games!
-<br><br><br>
+
+<a href="https://discord.com/users/950435898410024970"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/950435898410024970?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 ## **💻 Experience**
 Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
