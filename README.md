@@ -1,16 +1,13 @@
-![Preview](assets/background.jpg)
-
 [zffu.dev](https://zffu.dev/) - My personnal website with projects, blog and more.
 
 Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
-<a href="https://github.com/Zffu"><img align="left" width="100" src="./assets/1.png"></a>
 I'm a 16 year old guy that codes whenever he's bored, I also sometimes watch anime and play video games!
 <br><br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Zffu"><img align="right" width="100" src="./assets/2.png"></a> Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
+Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
 
 
 ## **📊 Github Stats**
@@ -24,9 +21,7 @@ I'm a 16 year old guy that codes whenever he's bored, I also sometimes watch ani
 
 **You can also email me here:** zffumc@gmail.com
 
-[![](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/Zffu)
 [![](https://img.shields.io/static/v1?message=Github&logo=github&label=&color=white&logoColor=black&labelColor=&style=for-the-badge)](https://github.com/Zffu)
-[![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/zffudev)
 [![](https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge)](https://steamcommunity.com/id/zffu/)
 [![](https://img.shields.io/static/v1?message=Anilist&logo=anilist&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge)](https://anilist.co/user/Zffu/)
 [![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/950435898410024970)
