@@ -16,7 +16,6 @@ Since I am only 16, I currently do not have any degree but still have experience
 
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/Zffu"><img align="right" width="100" src="./assets/3.png" /></a>
 **Please Contact me on Discord for a faster response:** [zffu](https://discord.com/users/950435898410024970)
 
 **You can also email me here:** zffumc@gmail.com
