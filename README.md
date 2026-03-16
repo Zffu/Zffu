@@ -1,6 +1,6 @@
 [zffu.dev](https://zffu.dev/) - My personnal website with projects, blog and more.
 
-Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
+Hi!👋 I'm Zffu, I'm a low-level developper!
 
 ## **☕ About me**
 I'm a 16 year old guy that codes whenever he's bored. I mostly like low level development! 
