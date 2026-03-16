@@ -3,13 +3,10 @@
 Hi!👋 I'm Zffu, I'm a low-level backend programmer, gamer and anime watcher
 
 ## **☕ About me**
-I'm a 16 year old guy that codes whenever he's bored, I also sometimes watch anime and play video games!
-
-<a href="https://discord.com/users/950435898410024970"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/950435898410024970?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
-<br><br>
+I'm a 16 year old guy that codes whenever he's bored. I mostly like low level development! 
 
 ## **💻 Experience**
-Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java** and **C**
+Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java**, **C** and **Rust**
 
 
 ## **📊 Github Stats**
@@ -20,7 +17,7 @@ Since I am only 16, I currently do not have any degree but still have experience
 ## **📫 Contact**
 **Please Contact me on Discord for a faster response:** [zffu](https://discord.com/users/950435898410024970)
 
-**You can also email me here:** zffumc@gmail.com
+**You can also email me here:** zffu@zffu.dev
 
 [![](https://img.shields.io/static/v1?message=Github&logo=github&label=&color=white&logoColor=black&labelColor=&style=for-the-badge)](https://github.com/Zffu)
 [![](https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge)](https://steamcommunity.com/id/zffu/)
