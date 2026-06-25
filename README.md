@@ -15,7 +15,7 @@ Since I am only 17, I currently do not have any degree but still have experience
 
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-**Please Contact me on Discord for a faster response:** [zffu](https://discord.com/users/950435898410024970)
+**Please Contact me on Discord for a faster response:** [zffu](https://discord.com/users/1392866325755334739)
 
 **You can also email me here:** zffu@zffu.dev
 
