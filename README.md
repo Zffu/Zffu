@@ -3,10 +3,10 @@
 Hi!👋 I'm Zffu, I'm a low-level developper!
 
 ## **☕ About me**
-I'm a 16 year old guy that codes whenever he's bored. I mostly like low level development! 
+I'm a 17 year old that codes whenever they are bored. I mostly like low level development! 
 
 ## **💻 Experience**
-Since I am only 16, I currently do not have any degree but still have experience. I overall have almost 7 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java**, **C** and **Rust**
+Since I am only 17, I currently do not have any degree but still have experience. I overall have almost 8 years of experience with programming languages, the ones that I like the most and am the most experienced in being **Java**, **C** and **Rust**
 
 
 ## **📊 Github Stats**
